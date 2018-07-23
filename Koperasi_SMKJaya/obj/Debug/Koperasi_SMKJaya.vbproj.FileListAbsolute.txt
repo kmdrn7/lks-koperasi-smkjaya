@@ -1,0 +1,141 @@
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 1\Koperasi_SMKJaya\Koperasi_SMKJaya\bin\Debug\Koperasi_SMKJaya.exe.config
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 1\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmMain.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 1\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.Resources.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 1\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.vbproj.GenerateResource.Cache
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 1\Koperasi_SMKJaya\Koperasi_SMKJaya\bin\Debug\Koperasi_SMKJaya.exe
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 1\Koperasi_SMKJaya\Koperasi_SMKJaya\bin\Debug\Koperasi_SMKJaya.pdb
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 1\Koperasi_SMKJaya\Koperasi_SMKJaya\bin\Debug\Koperasi_SMKJaya.xml
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 1\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.exe
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 1\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.xml
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 1\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.pdb
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 1\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmLogin.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 1\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmAdministrasi.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 1\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmAdministrasiPengguna.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 1\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmUbahPassword.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 1\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmuser.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 1\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmAnggota.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 1\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmUnitKerja.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\bin\Debug\Koperasi_SMKJaya.exe.config
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.exe
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.xml
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.pdb
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\bin\Debug\Koperasi_SMKJaya.exe
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\bin\Debug\Koperasi_SMKJaya.pdb
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\bin\Debug\Koperasi_SMKJaya.xml
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmAdministrasi.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmAdministrasiPengguna.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmAnggota.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmLogin.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmMain.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmUbahPassword.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmUnitKerja.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmuser.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.Resources.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.vbproj.GenerateResource.Cache
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmJenisBarang.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmBarang.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmCariUnitKerja.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmCariJenisBarang.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmAboutApp.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmPenjualanUmum.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 2\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmCariBarang.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\bin\Debug\Koperasi_SMKJaya.exe.config
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.exe
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.xml
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.pdb
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\bin\Debug\Koperasi_SMKJaya.exe
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\bin\Debug\Koperasi_SMKJaya.pdb
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\bin\Debug\Koperasi_SMKJaya.xml
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmAboutApp.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmAdministrasi.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmAdministrasiPengguna.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmAnggota.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmBarang.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmCariBarang.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmCariJenisBarang.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmCariUnitKerja.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmJenisBarang.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmLogin.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmMain.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmPenjualanUmum.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmUbahPassword.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmUnitKerja.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmuser.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.Resources.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.vbproj.GenerateResource.Cache
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmPenjualanAnggota.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmCariAnggota.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 3\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmBayar.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\bin\Debug\Koperasi_SMKJaya.exe.config
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.exe
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.xml
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.pdb
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmAboutApp.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmAdministrasi.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmAdministrasiPengguna.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmAnggota.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmBarang.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmBayar.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmCariAnggota.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmCariBarang.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmCariJenisBarang.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmCariUnitKerja.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmGajian.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmJenisBarang.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmLogin.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmMain.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmPenjualanAnggota.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmPenjualanUmum.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmUbahPassword.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmUnitKerja.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmuser.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.Resources.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.vbproj.GenerateResource.Cache
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\bin\Debug\Koperasi_SMKJaya.exe
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\bin\Debug\Koperasi_SMKJaya.pdb
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\bin\Debug\Koperasi_SMKJaya.xml
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmBayarKredit.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmLapKredit.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmLapBarang.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmLapJenisBarang.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmLapPenjualanAnggota.resources
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.vbprojResolveAssemblyReference.cache
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\bin\Debug\Koperasi_SMKJaya.exe.manifest
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\bin\Debug\Koperasi_SMKJaya.application
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.exe.manifest
+C:\Users\smkn2buduran\Desktop\PESERTA_04\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.application
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\bin\Debug\Koperasi_SMKJaya.exe.config
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.exe
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.xml
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.pdb
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\bin\Debug\Koperasi_SMKJaya.exe
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\bin\Debug\Koperasi_SMKJaya.pdb
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\bin\Debug\Koperasi_SMKJaya.xml
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmAboutApp.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmAdministrasi.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmAdministrasiPengguna.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmAnggota.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmBarang.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmBayar.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmBayarKredit.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmCariAnggota.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmCariBarang.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmCariJenisBarang.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmCariUnitKerja.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmGajian.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmJenisBarang.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmLapBarang.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmLapJenisBarang.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmLapKredit.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmLapPenjualanAnggota.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmLogin.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmMain.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmPenjualanAnggota.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmPenjualanUmum.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmUbahPassword.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmUnitKerja.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.frmuser.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.Resources.resources
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.vbproj.GenerateResource.Cache
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.vbprojAssemblyReference.cache
+I:\LKS_ITSA\4. NGANJUK 2016\New folder\Sesi 4\Koperasi_SMKJaya\Koperasi_SMKJaya\obj\Debug\Koperasi_SMKJaya.vbproj.CoreCompileInputs.cache
